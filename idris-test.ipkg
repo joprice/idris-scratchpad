@@ -1,0 +1,5 @@
+package idris_test
+
+modules = Main
+main = Main
+executable = idris_test

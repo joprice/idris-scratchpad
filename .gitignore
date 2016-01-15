@@ -1,0 +1,4 @@
+*.ibc
+*.o
+*.sw*
+idris_test
